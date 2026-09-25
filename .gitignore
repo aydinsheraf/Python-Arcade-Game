@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local player photos & data
+player_faces/
+leaderboard.json
+
+# Virtual environments (if using any)
+venv/
+.venv/
